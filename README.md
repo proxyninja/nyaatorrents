@@ -97,3 +97,4 @@ Even if the trackers do not work, the seeders remain connected to the decentrali
 Source: Official Nyaapocalypse FAQ, Nyaa Pantsu accessed 10 May 2017.
 
 
+Readthedocs: https://nyaatorrents.readthedocs.io/en/latest/
