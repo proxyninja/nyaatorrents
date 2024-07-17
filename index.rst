@@ -1,5 +1,5 @@
 ##################
-Nyaa.si, Nyaa Torrents Mirror, Nyaa Replacement
+Nyaa Torrents Mirror & Nyaa Replacement 2024
 ##################
 
 If you're a fan of anime, you've probably heard of Nyaa by now. This torrent site has a huge library of anime shows for you to download. Not only does it contain the latest anime series and films, but it also has a collection of the oldest and darkest.
